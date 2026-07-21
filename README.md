@@ -1,4 +1,4 @@
-Hi there🤚, my name is elham, and i am Passionate about building modern, user-focused web experiences with clean code and thoughtful design.<br><br>🔭 I’m currently working on SaaS web application called FlowPilot AI.<br>🌱 I’m currently learning backend with node js.<br>⚡ Fun fact I also have Ui/Ux background
+Hi there🤚, my name is elham, and i am Passionate about building modern, user-focused web experiences with clean code and thoughtful design.<br><br>🔭 I’m currently working on SaaS web application called FlowPilot AI.<br>🌱 I’m currently learning backend with express js.<br>⚡ Fun fact I also have Ui/Ux background
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elham-jemal-6015552a2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elush_j/)  
